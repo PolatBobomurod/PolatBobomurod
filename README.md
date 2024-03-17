@@ -1,5 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-https://forex-station.com/download/file.php?id=3326577
+![Candle-Countdown](https://github.com/PolatBobomurod/PolatBobomurod/assets/92042282/104648ea-3e76-4e83-a22f-ff13f48d7607)
+
 ###
 
 <p align="left">My name is Polat and I'm a programmer, from Uzbekistan</p>
