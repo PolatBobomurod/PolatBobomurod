@@ -23,5 +23,5 @@
 
 ###
 
-[![Uploading 0_M9dcUlG4T3gWKF8t.gif…]()](https://miro.medium.com/v2/resize:fit:1280/0*M9dcUlG4T3gWKF8t.gif)https://miro.medium.com/v2/resize:fit:1280/0*M9dcUlG4T3gWKF8t.gif
+(https://miro.medium.com/v2/resize:fit:1280/0*M9dcUlG4T3gWKF8t.gif)https://miro.medium.com/v2/resize:fit:1280/0*M9dcUlG4T3gWKF8t.gif
 
