@@ -23,5 +23,4 @@
 
 ###
 
-(https://miro.medium.com/v2/resize:fit:1280/0*M9dcUlG4T3gWKF8t.gif)https://miro.medium.com/v2/resize:fit:1280/0*M9dcUlG4T3gWKF8t.gif](https://miro.medium.com/v2/resize:fit:1280/0*M9dcUlG4T3gWKF8t.gif)https://miro.medium.com/v2/resize:fit:1280/0*M9dcUlG4T3gWKF8t.gif
-
+![0_M9dcUlG4T3gWKF8t](https://github.com/PolatBobomurod/PolatBobomurod/assets/92042282/da33d4c7-7e4a-420d-ad66-a00bfb2b3e26)
