@@ -1,5 +1,4 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-https://github.com/PolatBobomurod/PolatBobomurod/assets/92042282/104648ea-3e76-4e83-a22f-ff13f48d7607)
 ![Uploading Candle-Countdown.gif…]()
 
 ###
