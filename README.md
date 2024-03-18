@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Polat Bobomurod</h1>
+![Uploading 0_M9dcUlG4T3gWKF8t.gif…]()
+
 <h3 align="center">My main practice is 3D max, AUTOCAD, IOS, UX & UI, Front end and soft mechanics software development.</h3>
 
 - 📈 Trade in MT5 **Development of mechanical bots in MQL5**
