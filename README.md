@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Polat Bobomurod</h1>
-![Uploading 0_M9dcUlG4T3gWKF8t.gif…]()
+
+![Uploading 3c8701eb33e5cce2b18d4806c9f00bba.gif…]()
+
 
 <h3 align="center">My main practice is 3D max, AUTOCAD, IOS, UX & UI, Front end and soft mechanics software development.</h3>
 
