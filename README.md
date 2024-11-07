@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <!-- Additional Tools -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTTP" width="40" height="40"/> 
   </a>
   <a href="https://www.cloudflare.com/learning/dns/what-is-dns/" target="_blank" rel="noreferrer"> 
