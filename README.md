@@ -53,5 +53,3 @@
 
 
 ![3c8701eb33e5cce2b18d4806c9f00bba](https://github.com/PolatBobomurod/PolatBobomurod/assets/92042282/46cd0e0f-a254-4312-9aa8-8d1262f63089)
-
-![3c8701eb33e5cce2b18d4806c9f00bba](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F7v54&psig=AOvVaw0-w_y5ItpTh2TSPlQkwWJ3&ust=1731087699883000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDdga3iyokDFQAAAAAdAAAAABBR)
