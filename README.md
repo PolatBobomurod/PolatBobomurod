@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="40" height="40"/> 
   </a>  
 <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/eb2e10e0-bc4d-46ff-982a-63c3c312fcca" alt="JSON" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/eb2e10e0-bc4d-46ff-982a-63c3c312fcca" alt="JSON" width="50" height="50"/> 
   </a> 
 </p>
 
