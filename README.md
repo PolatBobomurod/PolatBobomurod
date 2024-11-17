@@ -52,5 +52,3 @@
 </p>
 
 ![8bfd01c18be1b5059bc0d7770d9dabf1](https://github.com/user-attachments/assets/0ed7ec30-9a51-4cbd-8353-6bd45eff44cb)
-
-![1_43wCZ5wJDhoWJS3kT0sAbQ](https://github.com/user-attachments/assets/f066527e-3b7e-4fbc-b7f7-ddcde0ee51b1)
