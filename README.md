@@ -26,7 +26,7 @@
   </a> 
   <!-- Additional Tools -->
 <a href="https://scapy.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/secdev/scapy/raw/master/doc/scapy/graphics/scapy_logo.png" width="40" height="40" left="50" alt="Scapy" />
+    <img src="https://github.com/secdev/scapy/raw/master/doc/scapy/graphics/scapy_logo.png" left="50" width="40" height="40" alt="Scapy" />
   </a> 
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="40" height="40"/> 
