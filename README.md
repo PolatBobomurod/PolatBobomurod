@@ -34,6 +34,9 @@
 <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/user-attachments/assets/eb2e10e0-bc4d-46ff-982a-63c3c312fcca" alt="JSON" width="40" height="40"/> 
   </a> 
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/43bdfc37-121f-4f27-bd9f-72af0522f6d2" alt="JSON" width="40" height="40"/> 
+  </a> 
 </p>
 
 
