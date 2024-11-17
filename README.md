@@ -60,8 +60,18 @@
   </a>
 </p>
 
+<video id="myVideo" muted loop>
+  <source src="https://github.com/user-attachments/assets/a7231edc-d9a4-4797-afe0-205e19265d86" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<iframe src="https://youtu.be/ZS_3slkCXhM?si=2mEQ5sT7T0J6ZpYU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<script>
+  window.onload = function() {
+    var video = document.getElementById('myVideo');
+    video.play();
+  };
+</script>
+
 
 
 ![8bfd01c18be1b5059bc0d7770d9dabf1](https://github.com/user-attachments/assets/0ed7ec30-9a51-4cbd-8353-6bd45eff44cb)
