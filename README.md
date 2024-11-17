@@ -16,6 +16,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a> 
+    <img src="https://github.com/user-attachments/assets/0d6e7959-f92b-48c0-af35-764382e324d3" alt="JSON" width="40" height="40"/> 
+  </a>
+  <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a> 
