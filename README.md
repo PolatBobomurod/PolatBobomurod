@@ -60,11 +60,6 @@
   </a>
 </p>
 
-[![Video Description](https://img.youtube.com/vi/your-video-id/0.jpg)]([https://www.youtube.com/watch?v=your-video-id](https://youtu.be/ZS_3slkCXhM?si=2mEQ5sT7T0J6ZpYU))
-
-
-
 ![8bfd01c18be1b5059bc0d7770d9dabf1](https://github.com/user-attachments/assets/0ed7ec30-9a51-4cbd-8353-6bd45eff44cb)
-
 
 https://github.com/user-attachments/assets/a7231edc-d9a4-4797-afe0-205e19265d86
