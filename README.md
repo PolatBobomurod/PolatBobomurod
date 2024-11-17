@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Polat Bobomurod</h1>
+<h1 align="center">This is Polat Bobomurod personal GitHub account.</h1>
 <h3 align="center">My main practice is 3D max, AUTOCAD, IOS, UX & UI, Front end and soft mechanics software development.</h3>
 
 - 📈 Trade in MT5 **Development of mechanical bots in MQL5**
