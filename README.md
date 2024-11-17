@@ -25,27 +25,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <!-- Additional Tools -->
-  <a href="https://developer.mozilla.org" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTTP" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cloudflare.com/learning/dns/what-is-dns/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/DNS_logo.svg" alt="DNS" width="40" height="40"/> 
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tcpip-47x30.svg/1024px-Tcpip-47x30.svg.png" alt="TCP/IP" width="40" height="40"/> 
-  </a>
-  <a href="https://requests.readthedocs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/psf/requests/main/requests/resources/requests-logo.png" alt="Requests" width="40" height="40"/> 
-  </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/bs-logo.png" alt="BeautifulSoup" width="40" height="40"/> 
-  </a>
-  <a href="https://www.rfc-editor.org/info/rfc5321" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Simple_Mail_Transfer_Protocol.svg/1280px-Simple_Mail_Transfer_Protocol.svg.png" alt="SMTP" width="40" height="40"/> 
-  </a>
-  <a href="https://scapy.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://scapy.net/img/scapy.png" alt="Scapy" width="40" height="40"/> 
-  </a>
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="40" height="40"/> 
   </a>
