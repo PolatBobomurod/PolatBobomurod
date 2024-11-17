@@ -1,9 +1,9 @@
 <h1 align="center">This is Polat Bobomurod personal GitHub account.</h1>
 <h3 align="center">My main practice is 3D max, AUTOCAD, IOS, UX & UI, Front end and soft mechanics software development.</h3>
 
-- system protected**
+- system protected
 
-- 🎨 Design **UX & UI, 3DS and AUTOCAD**
+- information is hidden
 
 - 📱 Mobile **The implementation of iOS apps in Swift is the most reliable**
 
