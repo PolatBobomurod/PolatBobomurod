@@ -60,8 +60,8 @@
   </a>
 </p>
 
-<video autoplay muted loop>
-  <source src="https://raw.githubusercontent.com/user-attachments/assets/a7231edc-d9a4-4797-afe0-205e19265d86" type="video/mp4">
+<video autoplay>
+  <source src="https://github.com/user-attachments/assets/a7231edc-d9a4-4797-afe0-205e19265d86" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
