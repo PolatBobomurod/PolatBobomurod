@@ -31,6 +31,9 @@
 <a href="https://scapy.net/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/secdev/scapy/raw/master/doc/scapy/graphics/scapy_logo.png" width="64" valign="middle" alt="Scapy" />
   </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://www.python.org/static/img/python-logo.png)" alt="python" width="40" height="40"/> 
+  </a> 
 </p>
 
 
