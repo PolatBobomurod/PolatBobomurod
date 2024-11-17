@@ -16,20 +16,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
   </a> 
   <!-- Additional Tools -->
 <a href="https://scapy.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/secdev/scapy/raw/master/doc/scapy/graphics/scapy_logo.png" alt="Scapy" width="50" height="40" />
+    <img src="https://github.com/secdev/scapy/raw/master/doc/scapy/graphics/scapy_logo.png" alt="Scapy" width="50" height="50" />
   </a> 
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="50" height="40"/> 
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="50" height="50"/> 
   </a>  
 </p>
 
