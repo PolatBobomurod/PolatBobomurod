@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="40" height="40"/> 
   </a>
 <a href="https://scapy.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/secdev/scapy/raw/master/doc/scapy/graphics/scapy_logo.png" width="64" valign="middle" alt="Scapy" /> alt="scapy" width="40" height="40"/> 
+    <img src="https://github.com/secdev/scapy/raw/master/doc/scapy/graphics/scapy_logo.png" width="64" valign="middle" alt="Scapy" />
   </a> 
 </p>
 
