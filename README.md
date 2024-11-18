@@ -5,9 +5,9 @@
 
 - information is hidden
 
-- 📱 Mobile **The implementation of iOS apps in Swift is the most reliable**
+- turning mobile devices into eyes
 
-- 🖥 Front End **on the production of site and program interface**
+- find secrets
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
