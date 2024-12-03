@@ -73,9 +73,6 @@
 </p>
 
 
-![ChatGPT_logo svg](https://github.com/user-attachments/assets/fc125b01-2319-48f2-871d-489c90cb8cad)
-
-
 
 ![8bfd01c18be1b5059bc0d7770d9dabf1](https://github.com/user-attachments/assets/0ed7ec30-9a51-4cbd-8353-6bd45eff44cb)
 
