@@ -43,12 +43,6 @@
 <a> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-heroku-icon-svg-download-png-225989.png?f=webp" width="40" height="40"/> 
   </a> 
-<a> 
-    <img src="https://imagedelivery.net/-inYktE1L-xCpqjE0wGFvg/b717b957-f0d2-42ee-b858-699691a54700/courseDetail" alt="JSON" width="40" height="40"/> 
-  </a> 
-  <a> 
-    <img src="https://github.com/user-attachments/assets/30ffb8c5-b8df-438a-8298-ffbab58ae271" alt="JSON" width="40" height="40"/> 
-  </a>
   <a> 
     <img src="https://github.com/user-attachments/assets/e270c6bd-03f8-4a09-8ce1-af47bd7a963f" alt="JSON" width="60" height="60"/> 
   </a>
