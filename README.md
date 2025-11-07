@@ -32,7 +32,7 @@
   </a> 
   <!-- Additional Tools -->
 <a> 
-    <img src="https://github.com/secdev/scapy/raw/master/doc/scapy/graphics/scapy_logo.png" width="40" height="40" alt="Scapy" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-logo-icon-svg-download-png-3029957.png" width="40" height="40" alt="Scapy" />
   </a> 
   <a> 
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="40" height="40"/> 
