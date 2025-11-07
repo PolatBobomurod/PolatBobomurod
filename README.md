@@ -41,7 +41,7 @@
     <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JSON" width="40" height="40"/> 
   </a> 
 <a> 
-    <img src="https://github.com/user-attachments/assets/43bdfc37-121f-4f27-bd9f-72af0522f6d2" alt="JSON" width="40" height="40"/> 
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="JSON" width="40" height="40"/> 
   </a> 
 <a> 
     <img src="https://github.com/user-attachments/assets/d7d3ba75-f37b-4988-a0a4-dc9ebb7c8851" alt="JSON" width="40" height="40"/> 
