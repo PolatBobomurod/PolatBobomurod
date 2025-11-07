@@ -68,7 +68,7 @@
     <img src="https://github.com/user-attachments/assets/49730fcd-b324-450c-9ff1-0fcfb710c2eb" alt="JSON" width="40" height="40"/> 
   </a>
   <a> 
-    <img src="https://www.django-rest-framework.org/img/logo.png" alt="JSON" alt="JSON" width="150" height="150"/> 
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="JSON" alt="JSON" width="140" height="140"/> 
   </a>
 </p>
 
