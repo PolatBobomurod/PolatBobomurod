@@ -35,7 +35,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-logo-icon-svg-download-png-3029957.png" width="40" height="40" alt="Scapy" />
   </a> 
   <a> 
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" alt="JSON" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" alt="JSON" width="40" height="40"/> 
   </a>  
 <a> 
     <img src="https://github.com/user-attachments/assets/41a77526-a3aa-40c6-bb8a-3e33173d8c7d" alt="JSON" width="40" height="40"/> 
