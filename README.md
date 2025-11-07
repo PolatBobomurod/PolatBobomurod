@@ -68,9 +68,6 @@
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="JSON" alt="JSON" width="150" height="150"/> 
   </a>
   <a> 
-    <img src="https://logolook.net/wp-content/uploads/2022/12/GitHub-Logo.png" alt="JSON" alt="JSON" width="60" height="60"/> 
-  </a>
-  <a> 
     <img src="https://github.com/user-attachments/assets/e270c6bd-03f8-4a09-8ce1-af47bd7a963f" alt="JSON" width="60" height="60"/> 
   </a>
 </p>
