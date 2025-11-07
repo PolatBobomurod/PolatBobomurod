@@ -38,7 +38,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" alt="JSON" width="40" height="40"/> 
   </a>  
 <a> 
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JSON" width="40" height="40"/> 
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JSON" width="60" height="60"/> 
   </a> 
 <a> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-heroku-icon-svg-download-png-225989.png?f=webp" width="60" height="60"/> 
