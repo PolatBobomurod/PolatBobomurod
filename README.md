@@ -44,7 +44,7 @@
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="JSON" width="40" height="40"/> 
   </a> 
 <a> 
-    <https://imagedelivery.net/-inYktE1L-xCpqjE0wGFvg/b717b957-f0d2-42ee-b858-699691a54700/courseDetail" alt="JSON" width="40" height="40"/> 
+    <img src="https://imagedelivery.net/-inYktE1L-xCpqjE0wGFvg/b717b957-f0d2-42ee-b858-699691a54700/courseDetail" alt="JSON" width="40" height="40"/> 
   </a> 
   <a> 
     <img src="https://github.com/user-attachments/assets/30ffb8c5-b8df-438a-8298-ffbab58ae271" alt="JSON" width="40" height="40"/> 
