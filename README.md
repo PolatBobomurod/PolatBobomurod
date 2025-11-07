@@ -41,7 +41,7 @@
     <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JSON" width="40" height="40"/> 
   </a> 
 <a> 
-    <img src="https://images.seeklogo.com/logo-png/27/2/heroku-logo-png_seeklogo-273520.png" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-heroku-icon-svg-download-png-225989.png?f=webp" width="40" height="40"/> 
   </a> 
 <a> 
     <img src="https://imagedelivery.net/-inYktE1L-xCpqjE0wGFvg/b717b957-f0d2-42ee-b858-699691a54700/courseDetail" alt="JSON" width="40" height="40"/> 
