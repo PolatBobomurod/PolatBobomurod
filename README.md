@@ -25,7 +25,7 @@
     <img src="https://github.com/user-attachments/assets/fc125b01-2319-48f2-871d-489c90cb8cad" alt="JSON" width="40" height="40"/> 
   </a>
   <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
   </a> 
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
