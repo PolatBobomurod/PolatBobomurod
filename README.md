@@ -9,7 +9,6 @@
 
 - find secrets
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -71,6 +70,7 @@
     <img src="https://github.com/user-attachments/assets/e270c6bd-03f8-4a09-8ce1-af47bd7a963f" alt="JSON" width="60" height="60"/> 
   </a>
 </p>
+
 
 ![8bfd01c18be1b5059bc0d7770d9dabf1](https://github.com/user-attachments/assets/0ed7ec30-9a51-4cbd-8353-6bd45eff44cb)
 
