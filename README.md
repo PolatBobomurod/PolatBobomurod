@@ -19,23 +19,23 @@
     <img src="https://github.com/user-attachments/assets/0d6e7959-f92b-48c0-af35-764382e324d3" alt="JSON" width="60" height="60"/> 
   </a>
   <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
   </a> 
   <a> 
-    <img src="https://github.com/user-attachments/assets/fc125b01-2319-48f2-871d-489c90cb8cad" alt="JSON" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/fc125b01-2319-48f2-871d-489c90cb8cad" alt="JSON" width="60" height="60"/> 
   </a>
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
   </a> 
   <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   </a> 
   <!-- Additional Tools -->
 <a> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-logo-icon-svg-download-png-3029957.png" width="40" height="40" alt="Scapy" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-logo-icon-svg-download-png-3029957.png" width="60" height="60" alt="Scapy" />
   </a> 
   <a> 
-    <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" alt="JSON" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" alt="JSON" width="60" height="60"/> 
   </a>  
 <a> 
     <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JSON" width="60" height="60"/> 
