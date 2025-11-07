@@ -50,7 +50,7 @@
     <img src="https://github.com/user-attachments/assets/30ffb8c5-b8df-438a-8298-ffbab58ae271" alt="JSON" width="40" height="40"/> 
   </a>
   <a> 
-    <img src="https://github.com/user-attachments/assets/e270c6bd-03f8-4a09-8ce1-af47bd7a963f" alt="JSON" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/e270c6bd-03f8-4a09-8ce1-af47bd7a963f" alt="JSON" width="60" height="60"/> 
   </a>
   <a> 
     <img src="https://github.com/user-attachments/assets/cf39dd30-5cff-4170-8043-cee1162c69c2" alt="JSON" width="60" height="60"/> 
