@@ -65,7 +65,7 @@
     <img src="https://github.com/user-attachments/assets/91512259-6a14-4166-8b0c-a5eac6474c4f" alt="JSON" width="40" height="40"/> 
   </a>
   <a> 
-    <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="JSON" width="40" height="40"/> 
+    <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="JSON" width="60" height="60"/> 
   </a>
   <a> 
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="JSON" alt="JSON" width="150" height="150"/> 
