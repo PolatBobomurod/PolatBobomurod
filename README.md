@@ -19,10 +19,10 @@
     <img src="https://github.com/user-attachments/assets/0d6e7959-f92b-48c0-af35-764382e324d3" alt="JSON" width="60" height="60"/> 
   </a>
   <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a> 
-    <img src="https://github.com/user-attachments/assets/fc125b01-2319-48f2-871d-489c90cb8cad" alt="JSON" width="60" height="60"/> 
+    <img src="https://github.com/user-attachments/assets/fc125b01-2319-48f2-871d-489c90cb8cad" alt="JSON" width="40" height="40"/> 
   </a>
   <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
