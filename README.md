@@ -1,5 +1,5 @@
 <h1 align="center">This is Polat Bobomurod imperial zone controlling social media on his personal GitHub account</h1>
-<h3 align="center">My main practice is 3D max, AUTOCAD, IOS, UX & UI, Front end and soft mechanics software development.</h3>
+<h3 align="center">I simply carry on my work with love for what I do, knowing that there are still so many fields of knowledge in this world I have yet to understand.</h3>
 
 𝕮𝖔𝖓𝖘𝖙𝖗𝖚𝖈𝖙𝖎𝖛𝖊 𝖘𝖔𝖋𝖙𝖜𝖆𝖗𝖊 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘 𝖔𝖓 𝕱𝖚𝖑𝖑 𝕾𝖙𝖆𝖈𝖐 𝕻𝖞𝖙𝖍𝖔𝖓
 
